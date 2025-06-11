@@ -1,3 +1,5 @@
 # Latihan Github
 
-tes
+te
+
+tambahan edit baru
